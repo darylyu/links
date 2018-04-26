@@ -1,1 +1,2 @@
 - [Easy to use progress bars for Python](https://github.com/verigak/progress)
+- [Pipenv: A Guide to the New Python Packaging Tool](https://realpython.com/pipenv-guide/)
