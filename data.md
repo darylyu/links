@@ -11,4 +11,5 @@
 - [Amazon Web Services](https://aws.amazon.com/public-datasets/)
 - [Google Cloud Platform](https://cloud.google.com/public-datasets/)
 - [Kaggle](https://www.kaggle.com/datasets)
+- [Microsoft Research](https://msropendata.com/)
 - [Refine Bioo](http://www.refine.bio/)
